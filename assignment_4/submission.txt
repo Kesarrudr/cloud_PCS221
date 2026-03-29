@@ -1,0 +1,8 @@
+Name:Rudr Kesar
+Roll Number: 8025320082
+
+Part 1 & 2: IaaS Web Server (AWS EC2)
+EC2 Public IP Address:http://15.207.86.206/index.html
+
+Part 3: Serverless Static Website (AWS S3)
+S3 Static Website Endpoint: http://cloud-lab8025320082-339712997743-ap-south-1-an.s3-website.ap-south-1.amazonaws.com/
